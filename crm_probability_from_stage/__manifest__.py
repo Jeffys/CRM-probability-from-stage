@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+{
+    'name': "CRM Probability From Stage",
+    'summary': """
+        this module assigns probability values to different CRM stages, 
+        enabling more accurate sales forecasting and better decision-making throughout the sales process.""",
+
+    'description': """
+        module automates the assignment of probability values to each stage in the CRM pipeline. 
+        By mapping specific probabilities to various sales stages, this module enhances forecasting accuracy and aids sales teams in making informed decisions, 
+        ultimately improving overall sales performance and efficiency.
+    """,
+    'author': "Doodex",
+    'website': "https://www.doodex.net/",
+    'category': 'Marketing/Sales',
+    'version': '16.0.1',
+    'depends': ['base','crm'],
+    'images': ["static/description/icon.png"],
+    'license': 'AGPL-3',
+    'data': [
+        # 'security/ir.model.access.csv',
+        'views/crm_views.xml',
+    ],
+    'application': True,
+    'installable': True
+}
