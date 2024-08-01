@@ -8,8 +8,8 @@
     <field name="inherit_id" ref="crm.crm_stage_form"/>
     <field name="arch" type="xml">
       <field name="is_won" position="before">
-        <label for="probability" attrs="{'invisible': [('show_probability', '=', False)]}"/>
-        <div class="d-inline-block" attrs="{'invisible': [('show_probability', '=', False)]}">
+        <label for="probability" invisible="not show_probability"/>
+        <div class="d-inline-block" invisible="not show_probability">
           <field name="probability" widget="float" class="oe_inline o_input_6ch"/>
           <span class="oe_grey"> %</span>
         </div>
