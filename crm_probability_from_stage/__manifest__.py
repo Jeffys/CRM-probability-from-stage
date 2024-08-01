@@ -16,7 +16,7 @@
     'version': '16.0.1',
     'depends': ['base','crm'],
     'images': ["static/description/icon.png"],
-    'license': 'AGPL-3',
+    'license': 'LGPL-3',
     'data': [
         # 'security/ir.model.access.csv',
         'views/crm_views.xml',
