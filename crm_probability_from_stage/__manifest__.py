@@ -6,9 +6,9 @@
         enabling more accurate sales forecasting and better decision-making throughout the sales process.""",
 
     'description': """
-        module automates the assignment of probability values to each stage in the CRM pipeline. 
-        By mapping specific probabilities to various sales stages, this module enhances forecasting accuracy and aids sales teams in making informed decisions, 
-        ultimately improving overall sales performance and efficiency.
+        This module allows for the manual assignment of probability values to each stage in the CRM pipeline. 
+        By defining specific probabilities for various sales stages, the module ensures that the probability field in CRM leads automatically aligns with the stage’s predefined probability. 
+        This approach enhances forecasting accuracy and supports sales teams in making informed decisions, ultimately improving overall sales performance and efficiency.
     """,
     'author': "Doodex",
     'website': "https://www.doodex.net/",
