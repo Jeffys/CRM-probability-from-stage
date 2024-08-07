@@ -23,5 +23,7 @@
         'views/res_config_settings.xml',
     ],
     'application': True,
-    'installable': True
+    'installable': True,
+    "price": 5,
+    "currency": "USD",
 }
