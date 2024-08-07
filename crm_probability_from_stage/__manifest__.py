@@ -15,7 +15,7 @@
     'category': 'Marketing/Sales',
     'version': '17.0.1.0',
     'depends': ['base','crm'],
-    'images': ["static/description/icon.png",],
+    'images': ["static/description/banner.png",],
     'license': 'LGPL-3',
     'data': [
         # 'security/ir.model.access.csv',
