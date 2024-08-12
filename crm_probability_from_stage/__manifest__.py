@@ -22,6 +22,6 @@
         'views/crm_views.xml',
         'views/res_config_settings.xml',
     ],
-    'application': True,
+    'application': False,
     'installable': True,
 }
