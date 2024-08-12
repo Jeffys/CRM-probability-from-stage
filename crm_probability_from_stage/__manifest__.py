@@ -24,6 +24,4 @@
     ],
     'application': True,
     'installable': True,
-    "price": 5,
-    "currency": "USD",
 }
