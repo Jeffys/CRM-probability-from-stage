@@ -35,7 +35,7 @@ If you are looking for a partner who can provide customized Odoo solutions tailo
 Visit our website at www.doodex.net to learn more about our services and how we can help you achieve your business objectives.
 [get a free audit here](https://www.doodex.net/audit-gratuit)
 
-## CRM Probability From Stage
+## [CRM Probability From Stage](https://www.doodex.net/en/blog/doodex-blog-2/probabilite-crm-par-etape-99#blog_content)
 This module assigns probability values to different CRM stages, enabling more accurate sales forecasting and better decision-making throughout the sales process.
 
 ## Features
